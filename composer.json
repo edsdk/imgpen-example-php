@@ -1,11 +1,12 @@
 {
     "name": "edsdk/imgpen-example-php",
     "description": "ImgPen example with PHP file uploader server",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "library",
     "keywords": ["imgpen", "image", "photo", "editor", "file", "uploader", "client", "server", "microservice"],
     "homepage": "https://imgpen.com",
     "license": "proprietary",
+    "minimum-stability": "stable",
 
     "authors": [
         {
@@ -14,6 +15,6 @@
         }
     ],
     "require": {
-        "edsdk/file-uploader-server-php": ">=1.0.0"
+        "edsdk/flmngr-server-php": ">=1.0.0"
     }
 }
