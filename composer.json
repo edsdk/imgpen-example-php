@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "edsdk/flmngr-server-php": ">=1.0.0"
+        "edsdk/file-uploader-server-php": ">=1.0.0"
     }
 }
